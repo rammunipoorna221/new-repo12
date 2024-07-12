@@ -1,3 +1,8 @@
-initial content
+initial content1111
+
 feature branch content
+<<<<<<< HEAD
  conflicing content
+=======
+new content for non-ff merge
+>>>>>>> feature_branch_non_ff
