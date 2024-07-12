@@ -1,2 +1,3 @@
 initial content
 feature branch content
+ conflicing content
